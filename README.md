@@ -1,0 +1,10 @@
+# Women in Early Modern Handwritten News: Random Walks and Semantic Wanderings in the Medici Archive
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdh-observer/jnkqqTTKW8km/HEAD?filepath=paper.ipynb)
+
+# Abstract
+
+Early modern Europe witnessed an unprecedented revolution in information culture. This gave rise to new means of communication that include handwritten news sheets. Throughout the 16th and 17th century information circulated in the form of regular manuscript newsletters. Even though these newsletters had a significant impact on European history, their study has remained challenging. Most of the once existing news sheets did not survive. Those news sheets that survived are dispersed in different collections of the world. These collections are just random and incomplete samples from the once existing corpus of handwritten news. How can we unlock and study the lost early modern corpus of handwritten news? To tackle this problem, this study draws on various methods applied in dynamic system modeling and AI (Bootstrapping, Markovian simulation, and Random Walks), as well as on Bayesian statistics and semantic modeling. Precisely, the paper investigates a collection of one thousand Italian manuscript newsletters from the Medici Archive (today part of the Florentine State Archive) with a focus on the presence and the perception of women in the news. First, it discusses how loss and incompleteness generate the randomness of archival assets. Second, it offers an accessible introduction into an array of methods that natural sciences and AI apply to tackle randomness and incompleteness. Third, by analyzing the representation and presence of women in early modern news, the paper presents these methods in action.
+
+# Keywords
+early modern history, media history, simulation, gender, manuscript news, semantic modelling, Bayesian inference
