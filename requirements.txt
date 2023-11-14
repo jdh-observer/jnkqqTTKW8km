@@ -3,5 +3,5 @@ numpy==1.21.6
 scipy==1.3.1
 matplotlib==3.5.1
 msmtools==1.2.6
-pandas==1.3.5
+pandas==1.1.5
 nbformat==5.7.3
