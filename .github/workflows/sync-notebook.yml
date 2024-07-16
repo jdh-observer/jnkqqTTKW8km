@@ -15,7 +15,7 @@ jobs:
       - name: installing & running jupytext
         run: |
           pip install jupytext
-          jupytext --sync paper.ipynb
+          jupytext --sync article.ipynb
 
       - name: committing changes
         uses: stefanzweifel/git-auto-commit-action@v5

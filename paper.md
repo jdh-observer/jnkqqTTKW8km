@@ -53,26 +53,24 @@ Early modern Europe witnessed an unprecedented revolution in information culture
 
 In February 1600 a seemingly peculiar news reached the Medici court in Florence: a woman ambassador from Persia arrived at the Ottoman court in Constantinople. The short report about her arrival came as part of a handwritten news sheet compiled in Vienna (ASF MdP, 3087). Were contemporary news mongers surprised reading this news? Or was reading about a woman who acted decisively and boldly common for early modern news consumers?
 
-<!-- #region citation-manager={"citations": {"": []}} -->
-Answering these questions is not easy. Early modern Europe witnessed an information revolution featured - in part - by the continual circulation of handwritten news sheets or avvisi in Italian (<cite data-cite="14123371/DNJG2PAA"></cite>, <cite data-cite="14123371/YUIGK4W8"></cite>, <cite data-cite="14123371/2EAB4YBD"></cite>). Later, from the early 1600s, handwritten news sheets were complemented with printed news, though handwritten news continued to play an important role until the mid 18th century (<cite data-cite="14123371/R2YC9W8W"></cite>). News was collected in large urban centers (henceforth, news hubs) of the continent by semi-professional newsagents; they assembled single news items into handwritten news sheets (<cite data-cite="14123371/DNJG2PAA"></cite>). Hence each news sheet is a consecutive sequence of news items that are organized into separate paragraphs. News agents, who could be postmasters, merchants or even diplomats and ambassadors residing abroad, sold their news sheets to a great variety of customers including ducal courts and merchant houses such as for instance the grand ducal court of the Medici in Florence and the Fuggers in Augsburg (<cite data-cite="14123371/C9YWKU9W"></cite>,<cite data-cite="14123371/WI9Z4FWN"></cite>). These news sheets were usually compiled in the native language of the customers; hence, the Medici received most of the news sheets in Italian and the Fuggers mainly read news in German. What types of information handwritten news sheets spread about women have not been studied, even though it is a relevant question for historians. The broader relevance is given by scholarship’s efforts to discover and present women’s representation in historical sources (<cite data-cite="14123371/WVUJJXNW"></cite>).
-<!-- #endregion -->
 
-<!-- #region citation-manager={"citations": {"": []}} -->
+Answering these questions is not easy. Early modern Europe witnessed an information revolution featured - in part - by the continual circulation of handwritten news sheets or avvisi in Italian (<cite data-cite="14123371/DNJG2PAA"></cite>, <cite data-cite="14123371/YUIGK4W8"></cite>, <cite data-cite="14123371/2EAB4YBD"></cite>). Later, from the early 1600s, handwritten news sheets were complemented with printed news, though handwritten news continued to play an important role until the mid 18th century (<cite data-cite="14123371/R2YC9W8W"></cite>). News was collected in large urban centers (henceforth, news hubs) of the continent by semi-professional newsagents; they assembled single news items into handwritten news sheets (<cite data-cite="14123371/DNJG2PAA"></cite>). Hence each news sheet is a consecutive sequence of news items that are organized into separate paragraphs. News agents, who could be postmasters, merchants or even diplomats and ambassadors residing abroad, sold their news sheets to a great variety of customers including ducal courts and merchant houses such as for instance the grand ducal court of the Medici in Florence and the Fuggers in Augsburg (<cite data-cite="14123371/C9YWKU9W"></cite>,<cite data-cite="14123371/WI9Z4FWN"></cite>). These news sheets were usually compiled in the native language of the customers; hence, the Medici received most of the news sheets in Italian and the Fuggers mainly read news in German. What types of information handwritten news sheets spread about women have not been studied, even though it is a relevant question for historians. The broader relevance is given by scholarship’s efforts to discover and present women’s representation in historical sources (<cite data-cite="14123371/WVUJJXNW"></cite>).
+
+
 However, scholarship on early modern women history cannot answer the question, to which extent the story of the woman ambassador was a genuine novelty for contemporary readers. Recent scholarship focusing on early modern women history studied the representation of women in a great variety of sources, including letters, literary works, and court records. For instance, topics, social activities and roles associated with early modern women have been studied  (<cite data-cite="14123371/92BVCMAX"></cite>; <cite data-cite="14123371/GLQDXGC6"></cite>). Recent scholarship of women's history has also challenged the traditional perception of early modern women as passive protagonists of history (<cite data-cite="14123371/EG2Q7AVT"></cite>). Through the systematic study of historical records, historians have uncovered different areas of woman agency and pointed out that woman agency was not altogether exceptional. Women agency manifested in specific domains of knowledge and skills such as medicine and household management, and information gathering (<cite data-cite="14123371/VUNYRXSG"></cite>; <cite data-cite="14123371/YUIGK4W8"></cite>; <cite data-cite="14123371/URZW6Q9G"></cite>; <cite data-cite="14123371/RNXI8KS2"></cite>). Women did engage with political and material culture, as well as with knowledge production and they did shape the course of history. Throughout the early modern period there were a number of powerful women, such as for instance the English queen Elisabeth I. (1558 - 1603), who ruled entire countries. However, students of women’s history have not surveyed handwritten news; unlike news pamphlets, avvisi have not been studied from the perspective of women's history (<cite data-cite="14123371/RKYE67HX"></cite). We do not therefore know what representations of womanhood were conveyed in this important group of historical sources. This exploratory study aims to contribute to women’s history by addressing this lacuna.
 
-<!-- #endregion -->
 
-<!-- #region citation-manager={"citations": {"": []}} -->
+
 The lack of studies investigating women’s representation in early modern handwritten news is due to the fact that these sources were not easy to research until not long ago. Most of the surviving news sheets remained unpublished and untranscribed in various archives and libraries of the world. Recently, thanks to the Euronews Project (https://euronewsproject.org) funded by the Irish Research Council and to the Medici Archive Project (https://www.medici.org/) funded by the Mellon Foundation, a large selection of transcribed Italian language handwritten news sheets (a corpus of approximately 1250 news sheets and 10800 individual news items, see the description of data set below) from the Florentine State Archive became publicly available on the MIA platform and database (https://mia.medici.org/, last accessed 1 February, 2024). In this essay I will investigate this selection and I will refer to it as the MIA-Euronews Corpus. Specifically, the main focus of my investigation will be women and their representation in early modern handwritten news sheets. The focus on representation is in line with most recent developments in media history discovering women representation in different modern media formats (<cite data-cite="14123371/WVUJJXNW"></cite>).
-<!-- #endregion -->
+
 
 However, this paper also has another key focus: methodology and historiography of early modern handwritten news sheets. The MIA-Euronews Corpus is just an immense and not representative sample of handwritten news sheets that once circulated in early modern Europe. Given that no explicit principles were followed by the team who aggregated it, the MIA-Euronews Corpus is a random and somewhat ad hoc snapshot of the vivid early modern news culture. In this sense, the MIA-Euronews Corpus represents very well the heart of the methodological and historical problem that the study of the early modern handwritten news sheet market involves: the totality of early modern handwritten news sheets perished; today there is a lost whole of these documents; as a result historians can only work with incomplete snapshots. Since most of the time factors determining which news sheets survived and which ones perished are unknown, the existing news sheet collections seem to be random samples from the lost whole. This leads to an important methodological and historiographical question I will address as the secondary focus of my paper: how can we explore a random sample of historical documents and say something about the original and lost document collection from which the random sample comes from? As part of the second focus of this paper, I will show that we can still discover how randomness of incomplete samples (from a lost whole) works, and based on this we can make inferences about the lost whole itself.
 
 
-<!-- #region citation-manager={"citations": {"": []}} -->
+
 The surveying of lost historical documents and collections has recently become an important area of historical research. Historians and digital humanists have adopted methods from ecology and Bayesian statistics to gather information about the size of once existing document collections (<cite data-cite="14123371/7VYWEYJC"></cite>; <cite data-cite="14123371/79VHQSU7"></cite>; <cite data-cite="14123371/HCD6U8AY"></cite>). For instance, Mike Kestemont et al. have applied the so-called unseen species model to study the loss of medieval narratives (<cite data-cite="14123371/HCD6U8AY"></cite>). This paper aims to contribute to this novel area of study, though its aim is not to gauge the volume of once circulating early modern handwritten news sheets; it rather aims to gather insights into the content of these lost documents.
 
-<!-- #endregion -->
+
 
 Due to the importance of the methodology underlying this paper, a significant amount of space will be devoted to methodology, specifically to the discussion of randomness and sampling. As part of this discussion in the first part of the paper, I will outline the methodology (Random Walks, Markovian simulation, Bayesian inference and semantic modeling) I applied to address randomness; I will keep my explanation accessible to non-specialist audiences and draw on a simplified thought experiment. The goal of this thought experiment is to enable readers with limited or no experience in statistics and computational modeling to form a basic idea of the methodology applied. An indepth and technical discussion of the methodology will be presented in the section called Implementation, which follows the general conclusions of this paper.
 
@@ -80,10 +78,10 @@ Due to the importance of the methodology underlying this paper, a significant am
 
 ### Research questions
 
-<!-- #region citation-manager={"citations": {"": []}} -->
+
 My research questions come from previous research that has studied the representation and agency of early modern women (<cite data-cite="14123371/KUDG2GZW"></cite>; <cite data-cite="14123371/N2365VZ4"></cite>). Previous studies addressed broader questions in the context of these themes. Here I address the same broader questions focusing on handwritten news. Did handwritten news perpetuate the essentially male order and dominance of early modern times? To which extent did news give space to women and women's action aiming to challenge the male order? However, these questions need to be translated into more specific questions that a data-driven exploration can answer. In other words, the main question of how women were represented in early modern handwritten news is to be operationalized through a number of more descriptive questions.  
 
-<!-- #endregion -->
+
 
 First, how often did contemporary readers hear about women? This question implies further questions. Generally, who were the main characters in the news world of the early modern period? What was the social status of those women who occurred in the news? Second, if women appear in the news, in what context are they mentioned? In other words, what are those topics that are associated with women? Before answering this question, I will address the question, what are the main themes in the early modern news world? As a whole, answering these questions will help understand not only the presence and representation of women in early modern news; it will also offer fresh insights into the early modern handwritten news culture.
 
@@ -132,9 +130,9 @@ display(Image('media/image6.png'),metadata=metadata)
 
 ### The random walker
 
-<!-- #region citation-manager={"citations": {"": []}} -->
+
 The story of the boldly acting woman ambassador is a random finding by my colleague. This story is just one of those millions of stories that the so-called Mediceo del Principato preserves. The Mediceo del Principato is a gigantic archival division in the Florentine State Archive (<cite data-cite="14123371/27AKK3NB"></cite>); it incorporates the Medici family’s major archive from the early modern period. Today, some 6500 archival units, which occupy approximately one and half kilometres of shelf space, form the core of the Mediceo del Principato. News sheets are dispersed through these 6500 archival units. To understand the problem of randomness and sampling, which are in the heart of this paper, consider the following thought experiment.
-<!-- #endregion -->
+
 
 There is a person who is literally a random walker; he has two goals. First, he aims to discover the presence and absence of women in the lost corpus of early modern handwritten news sheets. Second, he would like to map those contexts in which women were mentioned and understand the representation of women in early modern handwritten news.
 
@@ -165,19 +163,18 @@ As a second step, the random walker modifies his strategy to discover the presen
 However, by the end he has important insights into the presence of women in new sheets preserved in the Medici Archive. First, by uncovering the probability of finding women in a given random combination of news sheets, the random walker has an idea of ‘what would have happened’ if only this combination had survived; in other words, he knows the probability of women’s presence if only a given combination of news sheets were available today. Second, once his quest for all possible combinations exhausts, he knows about all possibilities: for instance, women mentioned in 24 news sheets out of 100 randomly selected news sheets, women mentioned in 50 news sheets out of 100 randomly selected news sheets, and so on. He will also know about the relative likeliness of each possibility. This is an understanding of how the randomness of news sheets - preserved in the Medici Archive -  in regard to women’s presence and absence works. In practice, by randomly selecting sub-samples of the news sheet collection in the Medici Archive, the random walker discovers the collection from all possible angles and systematically maps all possibilities. By synthetically creating thousands of small - possible - subsamples, he goes beyond the original dataset, which is just one possible snapshot of the lost corpus of early modern handwritten news, and addresses the problem of bias.
 
 
-<!-- #region citation-manager={"citations": {"": []}} -->
+
 The random walker is only a thought experiment; wandering around in the physical spaces where the former Medici Archive is today preserved for thousands of hours and randomly opening boxes and folders are of course not viable. I therefore implemented the thought experiment algorithmically by letting the MIA-Euronews Corpus represent the Medici Archive. My algorithmic implementation is based on the statistical procedure of bootstrapping, also known as sampling with replacement (<cite data-cite="14123371/3FLLGXTK"></cite>). The algorithm randomly fetched a set of 100 news sheets and a set of 100 individual news items from the corpus. First, it reported the number of news sheets in which women are present (henceforth, I will refer to this as random sampling of news sheets). Second, it reported the number of news items (again, a new sheet is a consecutive sequence of news items) that mention women (henceforth, I will refer to this as random sampling of news items). Third, it turned its findings into probabilities, i.e. into the probability of finding women in a 100 randomly selected news sheets and news items. The algorithm repeated these tasks until it had seen all possible combinations of news sheets and news items (since the algorithm started to converge relatively quickly, there was actually no need to see all possible combinations; once the point of convergence is achieved, the algorithm did not give new information anymore). As a result, the algorithm produced an overview of all possibilities (again, for instance, women mentioned in 50 news sheets out of 100 randomly selected news sheets) and their respective probabilities. In mathematical terms, it resulted in a probability distribution that rendered how the randomness of women’s presence and absence behaved in the MIA-Euronews Corpus; the resulting probability distribution gave rise to a firm knowledge of all possibilities.
-<!-- #endregion -->
+
 
 Additionally, I used this algorithmic procedure to explore the presence of certain themes related to women in news (such as for instance marriage), as well as to compare women’s presence in news coming from different locations and in news compiled in different periods (before and after 1600). Hence the  algorithmic procedure helped me investigate how some other external factors or variables (place and date of compilation) might have influenced the absence or presence of women (see below in the next Results section). As a whole, the algorithmic implementation of the random walker thought experiment tackled the randomness of women’s presence in the MIA-Euronews Corpus, as well as the biased nature of the corpus. But how can we explore the way the randomness of women’s presence might have worked in the lost whole of once-existing early modern news sheets?
 
-<!-- #region citation-manager={"citations": {"": []}} -->
-To answer this question, I worked with two core assumptions deriving from Bayesian statistics (<cite data-cite="14123371/T8QUN2KM"></cite>). First, each random sample of 100 news sheets is related to the once existing but now lost whole. Second, the ‘features’ of the lost whole determine the features of each random sample. Of course, here we do not work with exact features but with a range of possible outcomes and their respective probabilities - again with probability distributions. The range of possible outcomes that we discover by randomly sampling sets of 100 news sheets in the MIA-Euronews Corpus are conditioned by women’s presence in the lost whole. More technically speaking, women’s presence in the once existing totality of circulating news sheets is a prior; this prior conditions the evidence we find when randomly sampling sets of hundred news sheets in the MIA-Euronews Corpus. Bayesian statistics offers an analytical framework to make inferences about the prior based on the evidence we have. The resulting knowledge about the prior is not an exact knowledge; it is instead an estimate or an informed guess. The following illustrative example makes this train of thought more intuitive.
-<!-- #endregion -->
 
-<!-- #region citation-manager={"citations": {"": []}} -->
+To answer this question, I worked with two core assumptions deriving from Bayesian statistics (<cite data-cite="14123371/T8QUN2KM"></cite>). First, each random sample of 100 news sheets is related to the once existing but now lost whole. Second, the ‘features’ of the lost whole determine the features of each random sample. Of course, here we do not work with exact features but with a range of possible outcomes and their respective probabilities - again with probability distributions. The range of possible outcomes that we discover by randomly sampling sets of 100 news sheets in the MIA-Euronews Corpus are conditioned by women’s presence in the lost whole. More technically speaking, women’s presence in the once existing totality of circulating news sheets is a prior; this prior conditions the evidence we find when randomly sampling sets of hundred news sheets in the MIA-Euronews Corpus. Bayesian statistics offers an analytical framework to make inferences about the prior based on the evidence we have. The resulting knowledge about the prior is not an exact knowledge; it is instead an estimate or an informed guess. The following illustrative example makes this train of thought more intuitive.
+
+
 We have an unfair coin; the probability of heads is 0.3 and the probability of tails is 0.7. We are not aware of how biased the coin is; this prior probability setting is hidden. We toss the coin a hundred times. The evidence we get by tossing the coin is determined by the prior probability setting. Determination means that the probability of getting heads will be around 0.3 and it cannot be 0.8 for instance. Figure 3A shows the evidence we get throughout the tossing; Figure 3B shows our respective guess about the prior probability setting. The guess about the prior probability setting (Figure 3B) was calculated from the evidence (Figure 3A) with the help of Bayesian inference (<cite data-cite="14123371/T8QUN2KM"></cite>). As Figure 3B shows, the information we have about the prior probability setting is not a firm value; it is an estimate represented by a range of possible outcomes (or a probability distribution).
-<!-- #endregion -->
+
 
 Similarly, we can apply Bayesian inference to uncover the prior probability setting (in the lost corpus) that must have determined women’s presence in thousands of possible sub-samples created from the MIA-Euronews Corpus. Figure 7 in the following section renders this prior probability setting. This is an educated guess or an estimate of women’s presence in the once existing total population of news sheets (further technical details and the proof are discussed in the Implementation section). This educated guess is not a firm value but rather a range of possible outcomes (or a probability distribution).
 
@@ -248,9 +245,9 @@ Next, our random walker aims to discover those narrative contexts in which women
 To answer these questions, he keeps reading the news sheets and “learns” the probabilities of how words follow each other. Based on this knowledge, he starts to generate texts synthetically and observes how the randomness of words following each other works. Throughout the generation of texts, our random walker will at some point exhaust all possibilities and he will learn the probability of each possibility. The synthetic generation of texts is called simulation; it is a convenient method to explore all possibilities of how information in a large textual dataset can be articulated. If certain conditions are met, simulation of texts reaches a stable state (aka equilibrium state) resulting in a firm knowledge of all possible ways words can unfold, including their respective probabilities. As discussed below, the stable state reached throughout the simulation is a highly informative view point where sample bias is mitigated.
 
 
-<!-- #region citation-manager={"citations": {"": []}} -->
+
 I implemented the procedure above on the MIA-Euronews Corpus by means of a mathematical model named Markov Chain (<cite data-cite="14123371/C6LGWEUN"></cite>). First, the model “learned” the probabilities of how words follow each other in the MIA-Euronews Corpus.  Second, I run the Markov Chain model, which is a form of simulation sometimes named random walk in the literature (<cite data-cite="14123371/Q2467ZE9"></cite>). In practice, when we run a Markov Chain modelling the possible sequences of words in a large textual collection, we synthetically generate texts (or possible subsamples) consisting of millions of words. Again, the result exposes all possible ways words in a large textual collection may unfold; it thus enables us to observe how the randomness of words following each other in a given textual collection works.
-<!-- #endregion -->
+
 
 The Markovian simulation brought about three pieces of information. First, it revealed the overall or the stable state probability of a given word in the MIA-Euronews Corpus; the overall probability of a word also expresses its significance in the corpus (for further details see the Implementation section). Hence, by calculating the overall probability of certain words referring to women and other historical actors, I could quantify the significance and importance of these words  (see Figure 4 and Figure 8 in Section 3 ). Then I manually clustered the most significant words into units of distinct topics (see Figure 7). Second, the Markovian simulation revealed the probability that a given word follows or precedes another word (see Figure 10 and Figures 11 to 14 in Section 4), though this estimate can be inaccurate in case of very infrequent terms. Hence I focused on salient and frequent associations. In short, the Markovian approach helped explore the possible words following or preceding terms denoting women, which in turn offered insights into women’s representation in the corpus. Finally, the Markovian simulation gave information about the strength of association between words (see Figure 9 and Figures 15 to 18 in Section 4).
 
@@ -264,9 +261,9 @@ However, the Markovian approach did not produce an exhaustive set of information
 
 ### Semantics
 
-<!-- #region citation-manager={"citations": {"": []}} -->
+
 The semantic space approach (<cite data-cite="14123371/QUFFHSCV"></cite>) is based on an old assumption: the meaning of a word lies in its relationship to other terms (<cite data-cite="14123371/IE4PH3CB"></cite>; <cite data-cite="14123371/DSZ34NVF"></cite>; <cite data-cite="14123371/Q73WEBWI"></cite>). The set of all possible relationships between words in a given textual corpus gives rise to a system of meaning underlying that corpus. We can envisage this system of meaning as a high dimensional space populated by words as “points.” In this high dimensional space connections between terms do not imply bonds (as in a network); connections between terms instead imply spatial proximity and positional similarity; if two terms are closely related semantically, they are also close to each other in the high dimensional space representing the semantic space and the entire system of meaning. Further details about the process of constructing a semantic space out of a textual corpus are discussed in the Implementation section; here I limit the discussion to three broader points.
-<!-- #endregion -->
+
 
 First, even though a semantic space has some similarities with the two or three dimensional geometric spaces we are accustomed to, it is fundamentally different. A semantic space is a vector space; words that populate the semantic space are not points but vectors (often named word vectors in the literature). Each word represented as a word vector has certain mathematical features such as angle and magnitude. These mathematical features are used to study how a given word is related to other words, which ultimately gives information about the meaning of that word in a textual corpus.
 
@@ -285,7 +282,7 @@ To sum up, the semantic space approach reveals those possible connections that a
 
 In 1618 there was an interesting exchange of letters between officials of the Medici Court. The letter offers a rare glimpse into the news consumption in the Medici court.
 
-<!-- #region citation-manager={"citations": {"": []}} tags=["narrative"] -->
+<!-- #region tags=["narrative"] -->
 >Today after dining, the Most Serene Arch Duchess our Ladyship wants to hear the reading of the newsletter from Venice. And Her Most Serene Highness would be pleased if Your Lordship would secure their delivery every week, writing to this effect to that friend so that he might say how much he is to be given annually. (ASF MdP 4634, fo. 242; cited and translated by <cite data-cite="14123371/L9CZRPZQ"></cite>, pp. 726–727  )
 <!-- #endregion -->
 
@@ -583,7 +580,7 @@ plt.legend(bbox_to_anchor=(2,1.2), borderaxespad=1)
 
 ## Results B: Central themes of early modern handwritten news
 
-<!-- #region citation-manager={"citations": {"": []}} -->
+
 When consuming news, Maria Magdalena von Habsburg must have encountered all sorts of information about the world. However, there must have been certain themes that were particularly recurrent on the news sheets she read. Generally speaking, news mongers today or back in the early modern times tend to encounter similar types of information. Previous scholarship came up with a variety of themes that were allegedly prevalent in early modern news (<cite data-cite="14123371/SWZQ7BFG"></cite>):
 
 * international politics
@@ -597,7 +594,6 @@ When consuming news, Maria Magdalena von Habsburg must have encountered all sort
 * sensational news (monsters, distorted humans, etc)
 
 However, earlier scholarship did not produce information about how important these topics were. While some of them must have been particularly recurrent, others were less frequent themes.  Similarly, the most important topics discussed in the context of women’s experience have also remained unknown. In this section, I will therefore reveal the most important topics of news in the MIA-Euronews Corpus, as well as their relationship to women and women’s experience in the early modern period. This discovery process will be supported by the analysis of those words that are strongly associated with women, as well as by the study of the semantic space underlying terms denoting women. Figure 19 renders this semantic space and shows those groups of words to which women terms are semantically related.
-<!-- #endregion -->
 
 ```python jdh={"object": {"source": ["Key terms in the news world underlying the MIA-Euronews Corpus. The importance of each term is measured in terms of its stationary probability (column prob)."]}} tags=["hermeneutics", "table-2"]
 # Get those words the stationary probability of which is in the upper quartile
@@ -794,7 +790,7 @@ Image('media/image8.png',width=800)
 Image('media/image15.png')
 ```
 
-```python jdh={"module": "object", "object": {"source": ["Selection of key terms surrounding words denoting women in the MIA-Euronews Corpus. Figure 9 shows the strength of association between a given term and words denoting women. Figure 10 shows how likely a given term is to precede or to follow words denoting women within a window of five words. Words coloured in terms of their importance (measured with the help of the stationary probability) in the MIA-Euronews Corpus: orange - very important, purple (important), green (not important)."], "type": "image"}} tags=["figure-10"]
+```python jdh={"module": "object", "object": {"source": ["Selection of key terms surrounding words denoting women in the MIA-Euronews Corpus. Figure A shows the strength of association between a given term and words denoting women. Figure B shows how likely a given term is to precede or to follow words denoting women within a window of five words.  Words coloured in terms of their importance (measured with the help of the stationary probability) in the MIA-Euronews Corpus: orange - very important, purple (important), green (not important)."], "type": "image"}} tags=["figure-10"]
 Image('media/image32.png')
 ```
 
@@ -810,7 +806,7 @@ Image('media/image21.png')
 Image('media/image20.png')
 ```
 
-```python jdh={"module": "object", "object": {"source": ["Selection of key terms surrounding different sets of words denoting women in the MIA-Euronews Corpus. Figure 11 shows how likely a given term is to precede or to follow the word donna (woman) within a window of five words. Figure 12 shows how likely a given term is to precede or to follow the word regina (queen) within a window of five words. Figure 13 shows how likely a given term is to precede or to follow the words principessa (queen), duchessa (duchess), consorte (consort) within a window of five words. Figure 14 shows how likely a given term is to precede or to follow the words principessa (queen), duchessa (duchess), consorte (consort) within a window of five words. Words coloured in terms of their importance (measured with the help of the stationary probability) in the MIA-Euronews Corpus: orange - very important, purple (important), green (not important)."], "type": "image"}} tags=["figure-14"]
+```python jdh={"module": "object", "object": {"source": ["Selection of key terms surrounding different sets of words denoting women in the MIA-Euronews Corpus. Figure A shows how likely a given term is to precede or to follow the word donna (woman) within a window of five words. Figure B shows how likely a given term is to precede or to follow the word regina (queen) within a window of five words. Figure C shows how likely a given term is to precede or to follow the words principessa (queen), duchessa (duchess), consorte (consort) within a window of five words. Figure D shows how likely a given term is to precede or to follow the words principessa (queen), duchessa (duchess), consorte (consort) within a window of five words. Words coloured in terms of their importance (measured with the help of the stationary probability) in the MIA-Euronews Corpus: orange - very important, purple (important), green (not important)."], "type": "image"}} tags=["figure-14"]
 Image('media/image30.png')
 ```
 
@@ -826,7 +822,7 @@ Image('media/image26.png')
 Image('media/image10.png')
 ```
 
-```python jdh={"module": "object", "object": {"source": ["Selection of key terms surrounding different sets of words denoting women in the MIA-Euronews Corpus. Figure 15 shows the strength of association between a given term and the word donna (woman). Figure 16 shows the strength of association between a given term and the word regina (queen). Figure 17 shows the strength of association between a given term and the words principessa (queen), duchessa (duchess), consorte (consort) within a window of five words. Figure 18 shows the strength of association between a given term and the words principessa (queen), duchessa (duchess), consorte (consort) within a window of five words. Words coloured in terms of their importance (measured with the help of the stationary probability) in the MIA-Euronews Corpus: orange - very important, purple (important), green (not important)."], "type": "image"}} tags=["figure-18"]
+```python jdh={"module": "object", "object": {"source": ["Selection of key terms surrounding different sets of words denoting women in the MIA-Euronews Corpus. Figure A shows the strength of association between a given term and the word donna (woman). Figure B shows the strength of association between a given term and the word regina (queen). Figure C shows the strength of association between a given term and the words principessa (queen), duchessa (duchess), consorte (consort) within a window of five words. Figure D shows the strength of association between a given term and the words principessa (queen), duchessa (duchess), consorte (consort) within a window of five words. Words coloured in terms of their importance (measured with the help of the stationary probability) in the MIA-Euronews Corpus: orange - very important, purple (important), green (not important)."], "type": "image"}} tags=["figure-18"]
 Image('media/image9.png')
 ```
 
@@ -836,9 +832,9 @@ Image('media/image5.png')
 
 ###  Movement in the geographical space
 
-<!-- #region citation-manager={"citations": {"": []}} -->
+
 In August of 1551 the Medici court received a news sheet from Vienna (ASF MdP, 4572) giving notice about the departure of Duke Ferdinand of Austria (Holy Roman Emperor, 1556 - 1564) to Boemia. The same news sheet also informed its readers about the leaving of the Hungarian aristocrat, Tamas Nadasdy, to his castles. The news sheet from Vienna typifies the single most important theme in the MIA- Euronews Corpus, and most probably in early modern handwritten new sheets in general. This is the movement of historical actors and goods in the geographical space. Early modern news extensively reported about the arrivals, the departures, and the returns of historical actors such as sovereigns, churchmen, and ambassadors. News about the arrival of messengers and ships with precious cargo were also recurrent. With road conditions dramatically improving and with courts frequently traveling between summer and winter residences, the early modern period was a world in movement (<cite data-cite="14123371/LYRC68NN"></cite>). Movements of sovereigns were highly visible events, often accompanied by public rituals and processions.
-<!-- #endregion -->
+
 
 In light of this, it is not surprising that one of the most likely topics discussed in the context of women is movement and traveling (see Figure 10). Terms denoting spatial movements such as andare (to go), venire (to come), passare (to pass by), and partire (to depart) are ones of the most likely terms to co-occur with terms denoting women (see Figure 10). Of course, if social status is taken into consideration, there are important differences. While the news extensively discuss the movement of women belonging to the elite, the discussion of the movement of women of humble origin, usually mentioned by the general term donna (woman), is less comprehensive (see Figures 11 to 14). At the same time, it is important to underline that movement in the geographical space is not a topic that is strongly associated with women only. In other words, terms denoting movement in space are very likely to occur in the context of women, but the strength of association between these terms and women terms still tends to be low (see Figures 15 to 18). This is also highlighted by the absence of travel words from the semantic space around women terms (see Figure 19).
 
@@ -848,9 +844,9 @@ There are however three terms that are loosely related to the topic movement in 
 
 ### Intentions and mental states of historical actors
 
-<!-- #region citation-manager={"citations": {"": []}} -->
+
 Scholarship has emphasized that news were tools to monitor the geopolitical and political developments in the world (<cite data-cite="14123371/I2G6YMGM"></cite>). News mongers, such as the high ranking officials of the Medici court, as well as the grand dukes themselves, read handwritten news sheets to gather insights into the ambitions and goals of other courts and sovereigns. This function of handwritten news explains why the topic that I describe as intentions and beliefs (or mental states) of historical actors is a particularly important theme in my dataset. Words such as sapere (to know), credere (to believe), volere (to want), pensare (to think), dubitare (to doubt) belong to the topic intentions and beliefs of historical actors.
-<!-- #endregion -->
+
 
 This topic is generally unrelated to women; it is associated with men. News are unlikely to discuss the beliefs and intentions of women (see Figures 11 to 14 and see the absence of terms related to beliefs and intentions on Figure 19). The only exception is queen (most probably referring to Elisabeth I. of England (1558 - 1603)). Volere (to want), intendere (to intent), and sapere (to know) are likely to co-occur with the term queen (see Figure 12) but the strength of association between regina (queen) and these terms is still low (see Figure 16).
 
@@ -902,10 +898,10 @@ The explorative analysis in the previous section uncovered those themes that for
 
 ###  Marriage and wedding
 
-<!-- #region citation-manager={"citations": {"": []}} -->
+
 Marriage was viewed as the cornerstone of social order in the early modern period. In tandem with family, marriage was the most rudimentary social framework that shaped the life of most (but not all) women and men (<cite data-cite="14123371/T6CNXASM"></cite>;<cite data-cite="14123371/ENB8JPD5"></cite>;<cite data-cite="14123371/QV4LV2AA"></cite>). It was believed - both by catholics and protestants - to be a divine creation that aimed to maintain the harmony of social life. Marriage was particularly important for noble families since it contributed to social status and assured continuity over generations. Surprisingly, I found that marriage and wedding are non-central themes of the MIA–Euronews Corpus. I give a possible explanation for this in the Conclusion section.
 
-<!-- #endregion -->
+
 
 What is not surprising is the fact that marriage, including wedding, is the theme that is most strongly associated with women in my newssheet corpus. Beyond the topic of movement in physical space, marriage and wedding are the most important topics in the context in which women occur (see Figure 9 and Figure 12). There are however differences in terms of social status. While women of the elite are strongly associated with marriage, the same cannot be said about women of humble social origins. The term donna (woman), which usually denotes women of humble social origins, is in fact not associated with marriage (see Figures 15 to 18).
 
@@ -925,9 +921,9 @@ In summary, even though marriage is believed to have been the keystone of early 
 
 ### Pregnancy and childbirth
 
-<!-- #region citation-manager={"citations": {"": []}} -->
+
 The reproductive role of women was highly important in early modern societies. For the elite women as mothers and children as heirs assured the continuity of a dynasty or of a noble family. For artisanal and merchant families children contributed to the completeness of the household that often drew on their labour. Both protestant and catholic theologians underlined the sanctity of the household that would remain incomplete without children (<cite data-cite="14123371/8RKKSR7C"></cite>). Despite the apparent importance of childbirth and pregnancy, neither of them are significant themes in the MIA-Euronews Corpus. On the other hand, they are both strongly associated with women (see Figures 9 & 10, 11 to 14, and 15 to 18).
-<!-- #endregion -->
+
 
 Generally speaking, in the MIA-Euronews Corpus there are only occasional and sporadic mentions of pregnancy. What is also indicative is the fact that pregnancy does not occur as a news alone; it is usually discussed in tandem with other news. For instance, in April 1575 a piece of news arrived from Lyon through Rome (ASF MdP 3082); it extensively reported about fights with Hugenottes and as a side note it also mentioned the pregnancy of Queen of Navarra, Marguerite de Valois-Bourbon. Sometimes news in the MIA-Euronews Corpus comment on the development of the pregnancy including the number of months a woman has completed (for instance, ASF MdP 4191a, ASF MdP 3082, ASF MdP 4572). Occasionally, they give account of a miscarriage, though as the MIA-Euronews Corpus suggests this was a particularly rare theme.
 
@@ -941,199 +937,193 @@ Childbirth and baptism are equally unimportant themes in my dataset. When the ne
 Crime and violence are not particularly important topics in the MIA-Euronews Corpus. However, as Figure 19 shows, they are semantically related to terms denoting women. But there is a remarkable dichotomy between women of the elite and women of humble origins. Crime and violence are closely associated with women of humble origins. In fact, if women of humble origins are mentioned in the news, they are quite likely to be discussed in the context of crime, violence, and social control (see the axes attaccare (attack) and difesa (defence) on Figure 11  and 15). The relationship between women and crime has two facets in the MIA-Euronews Corpus.
 
 
-<!-- #region citation-manager={"citations": {"": []}} -->
+
 On the one hand, there are pieces of news about crimes committed by women. For instance, a news sheet that arrived from Rome in August 1719 (ASF MdP 100) reported about a woman who killed her husband. News sometimes report about the punishment of women, including public whipping, execution, and imprisonment. Reports about crimes by women are not surprising. In the early modern belief system women and transgressive social behaviour were closely related (<cite data-cite="14123371/7CFN7DES"></cite>). The connection was in part based on religious ideas. According to the Christian tradition, women were daughters of Eve, which established a direct connection with the Original Sin and the Fall of Man. As a result, in the early modern period it was widely believed that women were vulnerable to the incursions of the devil and to their own natural passions. This belief was also reinforced by premodern “scientific” ideas. According to the elemental physics of Gallen, Aristotle, and other ancient Greek philosophers, the female body is incomplete and vulnerable to uncontrollable emotions and passions. While men were associated with rationality and self-control, women were linked to nature, passion, and savageness. Women were also often subject to social control; this for instance gave rise to the regulation of clothes that women were allowed to wear in public. News sometimes discuss this theme as well. In short, everyday news reinforced the traditional misogynist beliefs of the early modern times by  relating women of humble origins to crime.
-<!-- #endregion -->
+
 
 On the other hand, news also often report about violence against women. Again, these reports usually concern women of humble origins. A recurrent theme is violence by soldiers. For instance, a news sheet from Graz compiled in October 1600 extensively discusses the actual state of affairs in the war against the Ottomans (ASF MdP, 51248). It reports about violence of French mercenaries against women. Another news from Cremona, compiled in June 1575, highlights the cruelties of German and Italian soldiers (ASF MdP, 3254). This piece of news pinpoints the heart of the matter. In early modern times peasants were forced to give accommodation to soldiers who often took advantage of this and committed violence, crime, and looting. Sometimes, news also mention petty crimes against women, though this remains sporadic in the MIA-Euronews Corpus.
 
-<!-- #region citation-manager={"citations": {"": []}} -->
+
 There are some interesting and unexplained silences in the MIA-Euronews Corpus. First, witchcraft is surprisingly underreported. It is estimated that in the early modern period approximately 40.000 and 60.000 people, mainly women, were executed for witchcraft <cite data-cite="14123371/6ZGYXXI9"></cite>. However, apart from some exceptions, the news in the MIA-Euronews Corpusare are silent about witchcraft. Second, scholarship <cite data-cite="14123371/ADTRIRVX"></cite> has discovered a great variety of crimes that were usually ascribed to women in the early modern period. This includes for instance fornication, infanticide, adultery, and premarital sex. News are not particularly specific about the types of crimes women commit. Generally, physical violence is the main crime against and by women that is discussed.
-<!-- #endregion -->
+
 
 ## Conclusion
 
-<!-- #region citation-manager={"citations": {"": []}} -->
+
 The focus of scholarship on early modern women history has been agency. Precisely, historians have studied the way women “skirted or even reshaped the patriarchal structure of the day. (<cite data-cite="14123371/KUDG2GZW"></cite>, p. 21)” Numerous examples of women challenging the traditional male order have been unearthed and studied with the purpose of understanding how gendered differences in the early modern period were constructed (<cite data-cite="14123371/7NI4YVUD"></cite>; <cite data-cite="14123371/TUA88M8S"></cite>,<cite data-cite="14123371/QQHU33XT"></cite>; <cite data-cite="14123371/72FIBYUM"></cite>). Hence I am evaluating the findings of my investigation in light of this question.
-<!-- #endregion -->
+
 
 My findings suggest that handwritten news reinforced existing ideas about gender and gendered differences. First, handwritten news highlighted the male dominance of the period. We have seen that even though women were not completely absent from news, their presence was rather sporadic. By contrast, men were almost always present; yet they were the main protagonists of the news. As it has been pointed out, no significant difference was found between different countries and regions. Second, if women occur in news, they are usually mentioned in traditional settings: celebration, marriage, travel, childbirth, etc. Similarly, women tend to assume traditional roles. As a result, I conclude that in handwritten news women do not challenge the patriarchal order of their day; yet they act according to this order. News therefore does not challenge the traditional gender differences of the period.
 
 
 The reason why news sheets conveyed the traditional gender roles and did not fundamentally alter the existing construction of gendered differences must be sought in the medium itself. Most probably, news sheets were compiled by men, which must have had a significant impact on the types of information that were included or ignored. Furthermore, the key topics of handwritten news uncovered in this essay pinpoint the fact that handwritten news sheets were mainly a political medium. News sheets were meant to help court officials and sovereigns follow political events, including wars and interstate conflicts. This explains why themes related to women, such as for instance child birth and marriage, were relatively rare. In light of all this, I can conclude that the story of the woman ambassador presented at the beginning of this paper must have been an anomaly.
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+
 ## Implementation
-<!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+
 The methodology behind this research consists of three different components and includes a pre-processing stage. Here I will present these three components with a special emphasis on how they resolve the problems outlined in the section addressing randomness and archival research. This section requires advanced knowledge in mathematics and computer science, and it is for specialists.
-<!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+
 ### Preprocessing
-<!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+
 The MIA-Euronews Corpus is preserved in the MIA Database of the Medici Archive Project; it consists of transcriptions of news sheets and basic metadata (place and date of compilation, source location of news items). As a first step, the transcriptions (represented in JSON) were tokenized, lemmatized, and POS tagged. For this task a lemmatizer and POS tagger for modern Italian by spaCy ([https://spacy.io/](https://spacy.io/)) was used. Given that the news sheets that reached the Medici court were mainly written in the Tuscan dialect, which is the predecessor of modern Italian, the lemmatizer performed reasonably well and delivered acceptable results. Throughout the preprocessing names of persons were identified with a Named Entity Recognizer; their gender and social rank were inferred computationally with the supervision of a human expert. What made the computational inference of social rank possible is that names are usually preceded by titles (such as marchese, princess, duke, etc.) in the MIA-Euronews Corpus. Given that titles in the corpus usually correspond to titles in modern Italian, the Named Entity Recognizer worked well. It was tested on a small sample of data and achieved good results (85% accuracy).
-<!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+
 ### Repeated random sampling of news sheets and news items
-<!-- #endregion -->
 
-<!-- #region citation-manager={"citations": {"": []}} editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+
 To accomplish repeated random sampling, the standard procedure of bootstrapping, also known as sampling with replacement, was applied <cite data-cite="14123371/3FLLGXTK"></cite>. Bootstrapping involves the repeated and randomized selection of a small subset of a large original sample. In this research, throughout each step of randomized selection, I picked one hundred complete news sheets and one hundred news items; then I counted the number of news items and news sheets that mention at least one woman. Hence I treated women’s presence in news as a binomial random variable with two possible outcomes: present and absent. Next, by averaging the outcomes of the randomized selection steps, I calculated the mean number of news items and news sheets in which women are present or absent if a hundred news items and new sheets are randomly selected. In short, the process of repeated random sampling of news sheets and news items brought about a binomial probability distribution that represents women’s presence or absence in the MIA-Euronews Corpus.
-<!-- #endregion -->
 
-<!-- #region citation-manager={"citations": {"": []}} editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+
 To discover the probability distribution that represents the presence of women in the lost totality of news sheets that once circulated in the early modern period, I applied Bayes’ Theorem <cite data-cite="14123371/4Y5IPFUQ"></cite>. This is a mathematical framework that facilitates the discovery of the most likely prior distribution giving rise to a set of evidence gathered  throughout a series of independent trials. In the context of this research, the evidence is the binomial probability distribution that the bootstrapping procedure brought about and the prior is the probability distribution that represents women’s presence in the lost totality of once existing news sheets. We can formalize all this in the following way:
-<!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+
 * Let X be the prior and let X be a continuous distribution with support [0,1] so that it can effectively represent the probability of presence and absence (for instance if X = 0.2 then the probability of women’s presence is 0.2 and the probability of their absence is 0.8).
-* Let H and T be the evidence; let H be a random variable for the number of news sheets (or news items) in which women are present, and let T be a random variable for the number of news sheets (or news items) in which women are absent.
-<!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+
+* Let H and T be the evidence; let H be a random variable for the number of news sheets (or news items) in which women are present, and let T be a random variable for the number of news sheets (or news items) in which women are absent.
+
+<!-- #region tags=["narrative"] -->
 We can formalize the relationship between the prior (X) and the evidence (H and T) as the probability (P) of observing presence _h_ number of times and absence _t_ number of times given that the prior probability distribution of presence is _x_.
+<!-- #endregion -->
 
 $$P(H = h, T = t | X = x)$$
-<!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+
 We can also reverse the statement above:
 
-$$P(X = x | H = h, T = t)$$
-<!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
-This term expresses the probability of the prior given the evidence. Qualitatively, it tells how the prior probability distribution is changing in light of the evidence we have (more about this later).
+$$P(X = x | H = h, T = t)$$
+
+
+This term expresses the probability of the prior given the evidence. Qualitatively, it tells how the prior probability distribution is changing in light of the evidence we have (more about this later)
+
 
 For convenience, we can express the prior probability distribution with its probability density function (PDF):
 
+
 $$f(X = x)$$
-<!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+
 Similarly, we can express the second term as a PDF:
-$$f(X = x | H = h, T = t)$$
-<!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+
+$$f(X = x | H = h, T = t)$$
+
+
 Bayes’ theorem connects the two terms in the following way (Puga et al., 2015):
 
-$$f(X = x | H = h, T = t) = \dfrac{P(H = h, T =t | X = x) \times f(X = x)}{P(H = h, T =t)}$$
-<!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+$$f(X = x | H = h, T = t) = \dfrac{P(H = h, T =t | X = x) \times f(X = x)}{P(H = h, T =t)}$$
+
+
 Given that the conjugate prior of the binomial distribution is the beta distribution, the PDF we need is the beta PDF:
 
-$$\dfrac{x^{\alpha-1}(1-x)^{\beta-1}}{B(\alpha , \beta)}$$
-<!-- #endregion -->
 
-<!-- #region tags=["hermeneutics"] -->
+$$\dfrac{x^{\alpha-1}(1-x)^{\beta-1}}{B(\alpha , \beta)}$$
+
+
 where
+
 
 $$B(\alpha,\beta) = \dfrac{\Gamma(\alpha)\Gamma(\beta)}{\Gamma(\alpha + \beta)}$$
 
+
 and
+
 
 $$\Gamma$$
 
-is the Gamma function.
-<!-- #endregion -->
 
-<!-- #region tags=["hermeneutics"] -->
+is the Gamma function.
+
+
 In the context of this research, the two parameters of the beta PDF, $\alpha$ and $\beta$ are the average number of times women are present and absent, i.e. _H_ and _T_. Precisely, to compute the distribution of women’s presence and absence in the lost whole of news sheets that once circularted, we need to accomplish two steps. First, we set the prior distribution so that the probability of absence and presence are equally likely:
 
-$$B(\alpha,\beta) = B(1,1)$$
-<!-- #endregion -->
 
-<!-- #region tags=["hermeneutics"] -->
+$$B(\alpha,\beta) = B(1,1)$$
+
+
 Next, we need to update this prior belief in light of the evidence we collect throughout the bootstrapping as follows:
 
-$$B(\alpha,\beta) = B(1 + h, 1 + t)$$
-<!-- #endregion -->
 
-<!-- #region tags=["hermeneutics"] -->
+$$B(\alpha,\beta) = B(1 + h, 1 + t)$$
+
+
 Notice that the update step in case of the beta distribution is straightforward and it involves only additions. Following the update step, we get the most likely prior distribution given the evidence:
 
+
 $$f(X = x | H = h, T = t)$$
-<!-- #endregion -->
 
-<!-- #region tags=["hermeneutics"] -->
+
 ###  Markovian simulation
-<!-- #endregion -->
 
-<!-- #region citation-manager={"citations": {"": []}} tags=["hermeneutics"] -->
+
 The Markovian simulation of texts is based on the state space model <cite data-cite="14123371/UYSIAQ49"></cite>. It is also based on the assumption that the Markovian property holds: any future state depends on the current state only. The so-called implied time scale test is used to validate the Markov model<cite data-cite="14123371/L6XA7HQL"></cite>.
 The textual universe underlying the MIA-Euronews Corpus was therefore represented as a state space with individual words as discrete states. Next the transition probabilities between words as states were computed from the corpus data and subsequently encoded in a transition matrix.
-<!-- #endregion -->
 
-<!-- #region citation-manager={"citations": {"": []}} tags=["hermeneutics"] -->
+
 Let this transition matrix be _P_; as a corollary of the Chapman-Kolmogorov equation <cite data-cite="14123371/ZLSFSNT7"></cite>, we can use _P_ to simulate the development of the underlying Markovian system after _n_ steps and with _m_ as the starting step:
 
-$$P^{n+m}  = P^n \times P^m$$
-<!-- #endregion -->
 
-<!-- #region citation-manager={"citations": {"": []}} tags=["hermeneutics"] -->
+$$P^{n+m}  = P^n \times P^m$$
+
+
 In practice, as the equation demonstrates, throughout the simulation, we need to raise P on the power of _n+m_. Given that a Markovian system is ergodic, the simulation will reach a stable probability distribution (π) that satisfies the following equation <cite data-cite="14123371/SSU5AKJG"></cite>:
 
-$$\pi . P = \pi$$
-<!-- #endregion -->
 
-<!-- #region citation-manager={"citations": {"": []}} tags=["hermeneutics"] -->
+$$\pi . P = \pi$$
+
+
 The stationary probability distribution π is a non-negative row vector that sums to one; it is the left eigenvector of the transition matrix and it remains unchanged if multiplied by the transition matrix. The stationary probability has a number of features that are important in the context of this research. First, it expresses the non-conditional probability of each state of a finite random system modelled as a Markovian system. The stationary probability of a given state is the maximum probability that the simulated system will be in that state irrespectively of the starting distribution. Hence, the stationary probability distribution is a limiting distribution as follows <cite data-cite="14123371/SSU5AKJG"></cite>:
 
+
 $$\lim_{k \to \infty} {P^{k}} = 1\pi$$
-<!-- #endregion -->
 
-<!-- #region citation-manager={"citations": {"": []}} tags=["hermeneutics"] -->
+
 Throughout this paper I therefore described it as the ‘overall probability’ of a given word in the news system. Second, the stationary probability distribution expresses the significance of each state in a dynamic system represented with a Markovian framework <cite data-cite="14123371/3EPZQA95"></cite>; it thus shows how important a given word is in the MIA-Euronews Corpus.
-<!-- #endregion -->
 
-<!-- #region citation-manager={"citations": {"": []}} tags=["hermeneutics"] -->
+
 The transition matrix can be also used to run random walks on the underlying Markovian system <cite data-cite="14123371/JKKJM8EU"></cite> and to simulate how states (words in the context of this research) are following each other.  First, one needs to pick (ideally randomly) a given starting state. Second, the row corresponding to this state in the transition matrix is treated as a probability distribution and it is used to randomly select the next state. Throughout the random walk one has to repeat the second step for a reasonably large number of times (or until the random walk reaches convergence). With the help of this random walk, I could observe how words are likely to follow each other. Precisely, I could uncover the words that are most likely to occur before or after terms denoting women.
-<!-- #endregion -->
 
-<!-- #region tags=["hermeneutics"] -->
+
 At the same time, as explained earlier, the likeliness that word B follows or precedes word A is not necessarily informative about the strength of relationship between them. To estimate the strength of association, one needs to take into consideration the independent probability of A and B. For instance, the fact that _donna _(woman)_ is very likely to be followed by _essere_ (to be) does not indicate a strong associative relationship given that _essere_ is a very common term. Again, I used Bayes theorem and its terminology to describe and resolve this problem as follows:
-<!-- #endregion -->
 
-<!-- #region tags=["hermeneutics"] -->
+
 1. Evidence: the probability (P) of B given A (the result of the random walk on the transition matrix)
+
 
 P (B | A)
 
+
 2. Priors: the probability of B independently of A (the stationary probability of B) and the probability of A independently of B (the stationary probability of A)
-   
+
+
 P (B) and P (A)
+
 
 3. Posterior: probability of A given B (the expression of how much our knowledge about B and A is changing as result of the evidence)
 
+
 P (A | B)
-<!-- #endregion -->
 
-<!-- #region tags=["hermeneutics"] -->
+
 To calculate the posterior, I again drew on Bayes theorem (see above). In short, the higher the posterior probability, the more the two terms are related to each other.
-<!-- #endregion -->
 
-<!-- #region tags=["hermeneutics"] -->
+
 ### Semantic modeling
-<!-- #endregion -->
 
-<!-- #region citation-manager={"citations": {"": []}} tags=["hermeneutics"] -->
+
 To model the semantic space underlying the MIA-Euronews Corpus, I applied a standard word2vector model <cite data-cite="14123371/P5F3GFFK"></cite>. First, I represented the corpus with a TF-IDF model and then trained the word2vector model (<cite data-cite="14123371/HTR8TI92"></cite>). To identify terms semantically related to words denoting women, I used cosine similarity. I projected the semantic space into two dimensions with the help of Uniform Manifold Approximation and Projection <cite data-cite="14123371/RQKEYHQP"></cite>.
-<!-- #endregion -->
 
-<!-- #region tags=["hermeneutics"] -->
+
 ## Data Availability
-<!-- #endregion -->
 
-<!-- #region tags=["hermeneutics"] -->
+
 The data used for this research is freely and publicly available in the MIA database of the Medici Archive Project ([http://mia.medici.org/](http://mia.medici.org/)).
-<!-- #endregion -->
+
 
 ## Funding
 
