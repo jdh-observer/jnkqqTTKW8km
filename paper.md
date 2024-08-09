@@ -183,7 +183,7 @@ Similarly, we can apply Bayesian inference to uncover the prior probability sett
 
 
 ```python jdh={"module": "object", "object": {"source": ["An illustrative example: assessing the fairness of a coin by flipping it for a hundred times. Figure A shows the outcome of flippings, i.e. the evidence. Figure B shows the mostly likely prior distribution that could give rise to the evidence gathered throughout the flipping. The beta distribution on Figure B gives a correct guess of the original probability. Figure A is the result of the simulation of a binomial variable with p = 0.3,  which is the degree of the coin\u2019s biasness."], "type": "image"}} tags=["figure-3"]
-Image('media/image28.png')
+display(Image("media/image28.png"))
 ```
 
 ```python tags=["hermeneutics"]
@@ -962,52 +962,52 @@ My findings suggest that handwritten news reinforced existing ideas about gender
 
 The reason why news sheets conveyed the traditional gender roles and did not fundamentally alter the existing construction of gendered differences must be sought in the medium itself. Most probably, news sheets were compiled by men, which must have had a significant impact on the types of information that were included or ignored. Furthermore, the key topics of handwritten news uncovered in this essay pinpoint the fact that handwritten news sheets were mainly a political medium. News sheets were meant to help court officials and sovereigns follow political events, including wars and interstate conflicts. This explains why themes related to women, such as for instance child birth and marriage, were relatively rare. In light of all this, I can conclude that the story of the woman ambassador presented at the beginning of this paper must have been an anomaly.
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+<!-- #region slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 ## Implementation
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+<!-- #region slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 The methodology behind this research consists of three different components and includes a pre-processing stage. Here I will present these three components with a special emphasis on how they resolve the problems outlined in the section addressing randomness and archival research. This section requires advanced knowledge in mathematics and computer science, and it is for specialists.
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+<!-- #region slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 ### Preprocessing
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+<!-- #region slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 The MIA-Euronews Corpus is preserved in the MIA Database of the Medici Archive Project; it consists of transcriptions of news sheets and basic metadata (place and date of compilation, source location of news items). As a first step, the transcriptions (represented in JSON) were tokenized, lemmatized, and POS tagged. For this task a lemmatizer and POS tagger for modern Italian by spaCy ([https://spacy.io/](https://spacy.io/)) was used. Given that the news sheets that reached the Medici court were mainly written in the Tuscan dialect, which is the predecessor of modern Italian, the lemmatizer performed reasonably well and delivered acceptable results. Throughout the preprocessing names of persons were identified with a Named Entity Recognizer; their gender and social rank were inferred computationally with the supervision of a human expert. What made the computational inference of social rank possible is that names are usually preceded by titles (such as marchese, princess, duke, etc.) in the MIA-Euronews Corpus. Given that titles in the corpus usually correspond to titles in modern Italian, the Named Entity Recognizer worked well. It was tested on a small sample of data and achieved good results (85% accuracy).
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+<!-- #region slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 ### Repeated random sampling of news sheets and news items
 <!-- #endregion -->
 
-<!-- #region citation-manager={"citations": {"": []}} editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+<!-- #region citation-manager={"citations": {"": []}} slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 To accomplish repeated random sampling, the standard procedure of bootstrapping, also known as sampling with replacement, was applied <cite data-cite="14123371/3FLLGXTK"></cite>. Bootstrapping involves the repeated and randomized selection of a small subset of a large original sample. In this research, throughout each step of randomized selection, I picked one hundred complete news sheets and one hundred news items; then I counted the number of news items and news sheets that mention at least one woman. Hence I treated women’s presence in news as a binomial random variable with two possible outcomes: present and absent. Next, by averaging the outcomes of the randomized selection steps, I calculated the mean number of news items and news sheets in which women are present or absent if a hundred news items and new sheets are randomly selected. In short, the process of repeated random sampling of news sheets and news items brought about a binomial probability distribution that represents women’s presence or absence in the MIA-Euronews Corpus.
 <!-- #endregion -->
 
-<!-- #region citation-manager={"citations": {"": []}} editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+<!-- #region citation-manager={"citations": {"": []}} slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 To discover the probability distribution that represents the presence of women in the lost totality of news sheets that once circulated in the early modern period, I applied Bayes’ Theorem <cite data-cite="14123371/4Y5IPFUQ"></cite>. This is a mathematical framework that facilitates the discovery of the most likely prior distribution giving rise to a set of evidence gathered  throughout a series of independent trials. In the context of this research, the evidence is the binomial probability distribution that the bootstrapping procedure brought about and the prior is the probability distribution that represents women’s presence in the lost totality of once existing news sheets. We can formalize all this in the following way:
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+<!-- #region slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 * Let X be the prior and let X be a continuous distribution with support [0,1] so that it can effectively represent the probability of presence and absence (for instance if X = 0.2 then the probability of women’s presence is 0.2 and the probability of their absence is 0.8).
 * Let H and T be the evidence; let H be a random variable for the number of news sheets (or news items) in which women are present, and let T be a random variable for the number of news sheets (or news items) in which women are absent.
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+<!-- #region slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 We can formalize the relationship between the prior (X) and the evidence (H and T) as the probability (P) of observing presence _h_ number of times and absence _t_ number of times given that the prior probability distribution of presence is _x_.
 
 $$P(H = h, T = t | X = x)$$
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+<!-- #region slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 We can also reverse the statement above:
 
 $$P(X = x | H = h, T = t)$$
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+<!-- #region slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 This term expresses the probability of the prior given the evidence. Qualitatively, it tells how the prior probability distribution is changing in light of the evidence we have (more about this later).
 
 For convenience, we can express the prior probability distribution with its probability density function (PDF):
@@ -1015,18 +1015,18 @@ For convenience, we can express the prior probability distribution with its prob
 $$f(X = x)$$
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+<!-- #region slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 Similarly, we can express the second term as a PDF:
 $$f(X = x | H = h, T = t)$$
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+<!-- #region slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 Bayes’ theorem connects the two terms in the following way (Puga et al., 2015):
 
 $$f(X = x | H = h, T = t) = \dfrac{P(H = h, T =t | X = x) \times f(X = x)}{P(H = h, T =t)}$$
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+<!-- #region slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 Given that the conjugate prior of the binomial distribution is the beta distribution, the PDF we need is the beta PDF:
 
 $$\dfrac{x^{\alpha-1}(1-x)^{\beta-1}}{B(\alpha , \beta)}$$
